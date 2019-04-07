@@ -4,8 +4,6 @@
 
 > Responsive, bloat free, bootstrap powered admin style dashboard!
 
-[**Demo App**](https://rdash-angular2.herokuapp.com/)
-
 # How to start
 
 ```bash
